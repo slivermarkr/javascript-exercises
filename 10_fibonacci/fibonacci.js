@@ -1,8 +1,6 @@
 // return the equivalent member of the fibonacci sequence based on input
 //
 
-
-
 const fibonacci = function(input) {
     if(input < 0)return "OOPS";
     if(input === 0 || input === '0') return 0;
